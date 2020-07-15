@@ -4,7 +4,7 @@ python:
 - 3.4
 script:
 - echo "hello..."
-- su whoami
+- whoami
 - ls -la
 - pwd
 - cd ..
