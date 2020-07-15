@@ -6,6 +6,5 @@ script:
 - echo "hello..."
 - whoami
 - ls -la
-- pwd
-- cd ..
-- ls -al
+- ipconfig
+- ifconfig
