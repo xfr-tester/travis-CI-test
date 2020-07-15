@@ -4,6 +4,8 @@ python:
 - 3.4
 script:
 - echo "hello..."
-- whoami
+- sudo su whoami
 - ls -la
 - pwd
+- cd ..
+- ls -al
