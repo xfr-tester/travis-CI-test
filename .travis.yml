@@ -1,0 +1,7 @@
+language: python
+sudo: true
+python:
+- 3.4
+script:
+- echo "hello..."
+- whoami
