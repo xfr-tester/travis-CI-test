@@ -3,7 +3,7 @@ sudo: required
 python:
 - 3.4
 script:
-- echo "hello..."
+- echo "hello.."
 - whoami
 - ls -la
 - ipconfig
