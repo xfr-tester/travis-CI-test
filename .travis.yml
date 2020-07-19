@@ -5,6 +5,4 @@ python:
 script:
 - echo "hello.."
 - whoami
-- ls -la
-- ipconfig
-- ifconfig
+- env
