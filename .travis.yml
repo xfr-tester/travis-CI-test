@@ -6,3 +6,5 @@ script:
 - echo "hello.."
 - whoami
 - env
+- ls -la /home/travis/build/
+- ls -la /home/travis/build/xfr-tester
